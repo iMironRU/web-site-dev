@@ -1,2 +1,2 @@
 # Структуры сайтов
-## [Структура интерент магазина]()
+## [Структура интерент магазина](https://github.com/iMironRU/web-site-dev/blob/main/10-specification/site-map/online-shop-sitemap.md)
