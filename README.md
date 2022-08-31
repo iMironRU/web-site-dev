@@ -1,7 +1,7 @@
 # Технология командной разработки сайта
 
 1. [Этапы разработки сайтов (основные этапы разработки, жизненны цикл)](https://github.com/iMironRU/web-site-dev/tree/main/1.Stages-of-website-development)
-2. Состав команды
+2. [Состав команды](https://github.com/iMironRU/web-site-dev/tree/main/2.Team-composition)
 3. Технология взаимодействия в команде
 4. Среда разработки
 5. Технические требования (к макета, верстки, текстам и т.д)
