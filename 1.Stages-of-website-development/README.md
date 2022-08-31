@@ -7,3 +7,4 @@
 6. Реализация
 7. Запус
 8. Передача на поддержку
+> [Источник](https://tilda.education/courses/web-design/basicsteps/)
