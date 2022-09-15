@@ -11,6 +11,7 @@
 9. Взаимодействие с заказчика (Аудит желаний, изучение ИС заказчика)
 10. Формирование ТЗ
 - 1 [Структуры сайтов](https://github.com/iMironRU/web-site-dev/blob/main/10-specification/site-map/README.md)
+- 2 [Фичи на сайте](https://github.com/iMironRU/web-site-dev/blob/main/10-specification/site-map/features.md)
 11. Распределение ролей
 12. Адаптация дизайна для CMS
 13. Подключение к внешним ИС (Эквайринг, службы доставки, чаты)
