@@ -8,3 +8,8 @@
 Также в доменном имени можно указать нужное местоположение (например www.doma-msk.ru)  
 это поможет вам сократить часть посетителей в которых вы не заинтересованы и привлечь именно целевую аудиторию.
 - __Национальный домен__ - невозможно сделать корпоративную почту
+
+> ###  Источники
+> https://vc.ru/seo/116604-pravila-i-rekomendacii-po-vyboru-domena-dlya-sayta
+> https://www.reg.ru/blog/kak-pravilno-vybrat-domen-dlya-sajta/
+> https://xsort.md/blog/what-is-domain
