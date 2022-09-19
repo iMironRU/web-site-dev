@@ -5,6 +5,6 @@
 4. Контент
 5. Дизайн
 6. Реализация
-7. Запус
+7. Запуск
 8. Передача на поддержку
 > [Источник](https://tilda.education/courses/web-design/basicsteps/)
