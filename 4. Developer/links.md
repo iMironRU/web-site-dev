@@ -8,6 +8,7 @@
 > https://ohmyposh.dev  
 > https://kapeli.com/dash  
 > https://iterm2.com/downloads.html  
+> https://github.com/phacility/arcanist  
 
 # LAMP - WAMP
 > https://habr.com/ru/post/144242/ - Актуализировать сделать ввиде таблицы  
