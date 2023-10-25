@@ -2,6 +2,7 @@
 - https://hostiman.ru/free-hosting
 - https://byet.host/resellers
 - https://free.sprinthost.ru
+- https://www.zzz.com.ua/ru
 
 
 # Список бесплатно не дорогих VPS
